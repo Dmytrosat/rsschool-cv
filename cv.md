@@ -6,7 +6,7 @@
 * ### GitHub: [Dmytrosat](https://github.com/Dmytrosat)
 * ### Telegram: [Dmytro](https://t.me/dmytrosat)
 ## About Me:
- I am 56 years old. I work as a construction engineer in construction. I design residential, public, and industrial buildings and structures.  I became interested in  
+ I am 56 years old. I work as a construction engineer in construction. I design residential, public, and industrial buildings and structures. I became interested in  
  creating websites. That's why I chose this course. My goal is to gain knowledge in the field of front-end development.  I dream of becoming a specialist in web 
  development and design, whose task is to design user interfaces for websites or applications.Remote work as a designer in construction gives me additional free time, 
  which I spend on learning Frontend Development. I’m interested in Web Development because this occupation provides endless possibilities for professional growth,
