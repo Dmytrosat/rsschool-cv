@@ -19,8 +19,6 @@
 * ### Git, GitHub(Basic)
 * ### VS Code, IntelliJ IDEA
 * ### Figma
-* ### Git, GitHub(Basic)
-* ### Figma
 * ### Adobe Photoshop
 * ### Adobe Illustrator                            
 ## Code Example:
